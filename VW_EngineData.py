@@ -32,14 +32,3 @@ ax2.tick_params(axis='y', labelcolor=color)
 
 fig.tight_layout()
 plt.show()
-
-
-
-
-
-
-
-
-
-
-#car_params = ['Time','Wastegate','Specified Throttle','Lambda ','Low Side Fuel Pressure','Fuel Rail Pressure(A)','Fuel Rail Pressure(Specified)','Misfires','Accelerator Pedal Angle(%)','Boost Pressure(A)','Engine Speed','Boost Pressure(Specified)','Injection On-time']
